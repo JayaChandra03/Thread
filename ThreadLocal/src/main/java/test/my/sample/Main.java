@@ -2,7 +2,7 @@
 /**
  * 
  */
-package test;
+package test.my.sample;
 
 /**
  * @author jayabal.manoharan

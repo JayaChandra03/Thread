@@ -1,5 +1,4 @@
-package test;
-
+package test.my.sample;
 public class MyThread extends Thread{
 	
 	private ProcessingClass t1;
