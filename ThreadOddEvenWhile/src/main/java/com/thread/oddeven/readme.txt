@@ -1,1 +1,1 @@
-ontrolling two threads using while and volatile
+Controlling two threads using while and volatile
